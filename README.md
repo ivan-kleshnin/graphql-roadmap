@@ -25,5 +25,5 @@ TODO: Didn't watch yet. Looks good though :)
 Good beginning, then switches to Prisma and things get messy.
 * [~Advanced React and GraphQL~](https://advancedreact.com/) (Wes Bos)<br>
 Relies on Prisma. Attems to teach you Markup & CSS, React, and GraphQL in parallel.
-* [~GraphQL with React~](https://www.udemy.com/graphql-with-react-course/)) (Udemy)<br>
+* [~GraphQL with React~](https://www.udemy.com/graphql-with-react-course/) (Udemy)<br>
 It's not bad but way too slow and bloated for my taste. 
