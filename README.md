@@ -12,7 +12,7 @@ Learn "low-level" basics first and consider the following:
 
 #### Recommended
 
-* [GraphQL by example](https://www.udemy.com/graphql-by-example/) (Udemy) (server)<br>
+* [GraphQL by example](https://www.udemy.com/graphql-by-example/) (Udemy) (fullstack)<br>
 A rare exception of a good cource at Udemy. Depth and pacing are up to the point. 
 * [Introduction to GraphQL](https://frontendmasters.com/courses/graphql/) (FrontendMasters) (server)<br>
 Good course on the basics. Scott Moss is a talented narrator. 
