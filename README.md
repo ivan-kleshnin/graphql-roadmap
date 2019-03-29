@@ -22,10 +22,12 @@ TODO: Didn't watch yet. Looks good though :)
 #### Not Recommended
 
 * [~GraphQL: Scalable APIs~](https://www.pluralsight.com/courses/graphql-scalable-apis) (PluralSight)<br>
-Outdated. The ordering of topics is not the best.
+Not bad but outdated. The sequence of topics could be better.
 * [~Modern GraphQL bootcamp~](https://www.udemy.com/graphql-bootcamp/) (Udemy)<br>
 Good beginning, then switches to Prisma and things get messy.
 * [~Advanced React and GraphQL~](https://advancedreact.com/) (Wes Bos)<br>
 Relies on Prisma. Attempts to teach you Markup & CSS, React, and GraphQL in parallel.
 * [~GraphQL with React~](https://www.udemy.com/graphql-with-react-course/) (Udemy)<br>
 It's not bad but way too slow and bloated for my taste. 
+* [~How to GraphQL~](https://www.howtographql.com) (HowToGraphQL.com)<br>
+Sneakingly inserts Prisma into the narrative.
