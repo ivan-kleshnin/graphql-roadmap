@@ -21,7 +21,7 @@ TODO: Didn't watch yet. Looks good though :)
 
 #### Not Recommended
 
-* [GraphQL: Scalable APIS](https://www.pluralsight.com/courses/graphql-scalable-apis) (PluralSight)<br>
+* [~GraphQL: Scalable APIs~](https://www.pluralsight.com/courses/graphql-scalable-apis) (PluralSight)<br>
 Outdated. The ordering of topics is not the best.
 * [~Modern GraphQL bootcamp~](https://www.udemy.com/graphql-bootcamp/) (Udemy)<br>
 Good beginning, then switches to Prisma and things get messy.
