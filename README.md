@@ -1,6 +1,6 @@
 # GraphQL Fullstack Developer Roadmap
 
-**Early Draft, WIP**
+**WIP**
 
 ### Resources
 
@@ -17,7 +17,7 @@ A rare exception of a good cource at Udemy. Depth and pacing are up to the point
 * [Introduction to GraphQL](https://frontendmasters.com/courses/graphql/) (FrontendMasters) (server)<br>
 Good course on the basics. Scott Moss is a talented narrator. 
 * [Advanced GraphQL](https://frontendmasters.com/courses/advanced-graphql/) (FrontendMasters) (server)<br>
-TODO: Didn't watch yet. Looks good though :)
+Despite the name, it's quite basic. Nevertheless, good to watch after the previous one.
 * [Apollo Client with React](https://www.leveluptutorials.com/tutorials/level-1-apollo-client-with-react) (LevelUp) (client)<br>
 Good intro to Apollo Client.
 
