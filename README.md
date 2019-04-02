@@ -17,11 +17,11 @@ For absolute beginners. Great introductory series.
 * [GraphQL by example](https://www.udemy.com/graphql-by-example/) (Udemy) (fullstack)<br>
 A rare exception of a good cource at Udemy. Depth and pacing are up to the point. 
 * [Introduction to GraphQL](https://frontendmasters.com/courses/graphql/) (FrontendMasters) (server)<br>
-Good course on the basics. Scott Moss is a talented narrator. 
+A good course on the basics. 
 * [Advanced GraphQL](https://frontendmasters.com/courses/advanced-graphql/) (FrontendMasters) (server)<br>
-Despite the name, it's quite basic. Nevertheless, good to watch after the previous one.
+Despite the name, it's quite basic. Watch it right after the previous one.
 * [Apollo Client with React](https://www.leveluptutorials.com/tutorials/level-1-apollo-client-with-react) (LevelUp) (client)<br>
-Good intro to Apollo Client.
+A good intro to Apollo Client.
 
 #### Not Recommended
 
