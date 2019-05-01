@@ -12,7 +12,7 @@ Learn "low-level" basics first and consider the following:
 
 #### Recommended
 
-* [GraphQL for absolute beginners](https://www.youtube.com/watch?v=DyvsMKsEsyE) (YouTube) (basics)<br>
+* [GraphQL for absolute beginners](https://www.youtube.com/watch?v=DyvsMKsEsyE&list=PLN3n1USn4xln0j_NN9k4j5hS1thsGibKi) (YouTube) (basics)<br>
 For absolute beginners. Great introductory series.
 * [GraphQL by example](https://www.udemy.com/graphql-by-example/) (Udemy) (fullstack)<br>
 A rare exception of a good cource at Udemy. Depth and pacing are up to the point. 
