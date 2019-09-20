@@ -5,10 +5,13 @@
 ### Resources
 
 I suggest you to avoid GraphQL tutorials that rely on Prisma/Hasura/Postgraphile/Autho0 and other proprietary stacks. 
-Learn "low-level" basics first and consider the following:
 
-1. You can't be sure these solutions will exist 1-2 years ahead. 
-2. Most of them change APIs and even their essence frequently.  
+1. *High-level* GraphQL tools of today won't probably exist 1-2 years ahead. 
+2. At least not in their current form.
+3. They're hightly unstable: APIs & concepts change rapidly.
+
+GraphQL on itself hovewer (being a language) changes slow and gracefully. So learn fundamentals first 
+and consider those code generators after you get some real-world experience with GraphQL. 
 
 #### Recommended
 
