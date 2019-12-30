@@ -38,3 +38,5 @@ Relies on Prisma. Attempts to teach you Markup & CSS, React, and GraphQL in para
 It's not bad but way too slow and bloated for my taste. 
 * [~How to GraphQL~](https://www.howtographql.com) (HowToGraphQL.com) (fullstack)<br>
 Sneakingly inserts Prisma into the narrative.
+* [~Designing GraphQL schemas~](https://egghead.io/courses/designing-graphql-schemas) (Egghead.com) (fullstack)<br>
+Had many unfullfilled hopes for this course. It consists of 50% trivias and 50% highly debatable advices.
